@@ -17,7 +17,7 @@ export default function About(props) {
     </div>
   </div>
   <div className="accordion-item">
-    <h2 className="accordion-header"> ng,jo.0[J?R]
+    <h2 className="accordion-header">
       <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style={{backgroundColor : props.mode === 'dark'?'black':'white' , color : props.mode === 'dark'?'#00008B':'black'}}>
         Accordion Item #2
       </button>
